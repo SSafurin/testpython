@@ -1,7 +1,6 @@
 langchain==0.0.249
 matplotlib==3.5.2
 openai==0.27.8
-Pillow==10.0.0
 streamlit==1.25.0
 textstat==0.7.3
 statistics
